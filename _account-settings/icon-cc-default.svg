@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="78px" height="52px" viewBox="0 0 78 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Account Settings / icon-cc-default</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Account-Settings-/-icon-cc-default" transform="translate(2.000000, 2.000000)">
+            <g>
+                <g id="Group" transform="translate(0.481479, 0.476270)" fill-rule="nonzero">
+                    <path d="M4.15067887,47.6270053 C1.8262987,47.6270053 0,45.8204638 0,43.521229 L0,4.10577632 C0,1.80654159 1.8262987,0 4.15067887,0 L68.9012691,0 C71.2256494,0 73.051948,1.80654159 73.051948,4.10577632 L73.051948,43.521229 C73.051948,45.8204638 71.2256494,47.6270053 68.9012691,47.6270053 L4.15067887,47.6270053 Z" id="Shape-Copy" stroke="#CCCCCC" stroke-width="3" fill="#FDFDFD"></path>
+                    <ellipse id="Oval-27" fill="#CCCCCC" cx="61.4300472" cy="37.7731422" rx="4.98081464" ry="4.92693159"></ellipse>
+                    <rect id="Rectangle-91" fill="#CCCCCC" x="4.98081464" y="36.1308316" width="26.5643448" height="3.28462106" rx="1.64231053"></rect>
+                </g>
+                <rect id="Rectangle-91-Copy" fill="#CCCCCC" fill-rule="nonzero" x="5.46229322" y="20.1839968" width="14.9424439" height="3.28462106" rx="1.64231053"></rect>
+                <rect id="Rectangle-91-Copy-2" fill="#CCCCCC" fill-rule="nonzero" x="22.0650087" y="20.1839968" width="14.9424439" height="3.28462106" rx="1.64231053"></rect>
+                <rect id="Rectangle-91-Copy-3" fill="#CCCCCC" fill-rule="nonzero" x="38.6677242" y="20.1839968" width="14.9424439" height="3.28462106" rx="1.64231053"></rect>
+                <rect id="Rectangle-91-Copy-4" fill="#CCCCCC" fill-rule="nonzero" x="55.2704397" y="20.1839968" width="13.2821724" height="3.28462106" rx="1.64231053"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

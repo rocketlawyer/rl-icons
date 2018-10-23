@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Actions / img-close-x-hover</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Actions-/-img-close-x-hover" fill="#999999">
+            <g id="Shape">
+                <path d="M37.5,0 C16.7895,0 0,16.7895 0,37.5 C0,58.2105 16.7895,75 37.5,75 C58.2105,75 75,58.2105 75,37.5 C75,16.7895 58.2105,0 37.5,0 Z M59.9985,54.70425 L54.70425,60 L37.5,42.79425 L20.295,60 L15.0015,54.70425 L32.2065,37.5 L15.0015,20.295 L20.295,15 L37.5,32.2065 L54.70425,15 L59.9985,20.295 L42.79425,37.5 L59.9985,54.70425 Z" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="200px" height="200px" viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g>
+	<path fill="#F1EFE8" d="M116.277,133.018L102.8,112.755h-0.19h-7.935v20.263h-18.54l0.013-55.838L63.151,66.207
+		C54.985,75.106,50,86.971,50,100.001c0,27.613,22.385,49.998,49.999,49.998c14.959,0,28.382-6.572,37.545-16.981H116.277z"/>
+	<path fill="#F1EFE8" d="M107.771,66.115c10.229,0,17.299,2.678,21.793,7.266c3.916,3.822,5.922,8.983,5.922,15.576v0.192
+		c0,10.227-5.445,17.01-13.76,20.546l15.896,23.229C145.329,124.13,150,112.609,150,100.001c0-27.614-22.389-50-50.001-50
+		c-14.539,0-27.626,6.207-36.762,16.114H107.771z"/>
+	<path fill="#F1EFE8" d="M94.678,82.174V98.23h12.232c6.309,0,9.939-3.062,9.939-7.936v-0.189c0-5.257-3.822-7.932-10.033-7.932
+		L94.678,82.174L94.678,82.174z"/>
+</g>
+<g>
+	<path fill="none" stroke="#F1EFE8" stroke-width="3" stroke-linecap="round" stroke-miterlimit="10" d="M173.686,114.061
+		C167.104,148.766,136.619,175,100,175c-41.424,0-75-33.574-75-75c0-41.424,33.576-75,75-75	">
+<animateTransform  restart="always" to="360 100 100" attributeName="transform" dur="1s" accumulate="none" calcMode="linear" from="0 100 100" additive="replace" fill="remove" type="rotate" repeatCount="indefinite" attributeType="XML">
+			</animateTransform>
+	</path>
+	<!-- <g>
+		<polygon fill="#F1EFE8" points="175,100 164.824,118.934 173.406,115.093 180.994,120.643">
+		
+			<animateTransform  restart="always" to="360 100 100" attributeName="transform" dur="1s" accumulate="none" calcMode="linear" from="0 100 100" additive="replace" fill="remove" type="rotate" repeatCount="indefinite" attributeType="XML">
+			</animateTransform>
+		</polygon>
+	</g> -->
+</g>
+</svg>

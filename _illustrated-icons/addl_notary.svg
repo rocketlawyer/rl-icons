@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="76px" height="75px" viewBox="0 0 76 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Illustrated Icons / addl_notary</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+        <ellipse id="path-3" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+        <ellipse id="path-5" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+        <ellipse id="path-7" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+        <ellipse id="path-9" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+        <ellipse id="path-11" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+        <ellipse id="path-13" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+        <ellipse id="path-15" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+        <ellipse id="path-17" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+        <ellipse id="path-19" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+    </defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustrated-Icons-/-addl_notary" transform="translate(0.823970, 0.000000)">
+            <g>
+                <g id="Mask" fill="#70DEC0" fill-rule="nonzero">
+                    <ellipse id="path-1" cx="37.4242693" cy="37.5039955" rx="37.4242693" ry="37.4438765"></ellipse>
+                </g>
+                <g id="Rectangle-797-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <rect id="Rectangle-797" fill="#CFEEE5" fill-rule="nonzero" mask="url(#mask-2)" x="12.9628113" y="20.5750235" width="53.5714285" height="57.8438285" rx="2"></rect>
+                </g>
+                <g id="Rectangle-797-+-Shape-Clipped">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <g id="Rectangle-797-+-Shape" mask="url(#mask-4)">
+                        <g transform="translate(10.384615, 17.307692)" id="Rectangle-797">
+                            <g transform="translate(0.346053, 0.142331)">
+                                <rect id="Rectangle-path" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="53.5714285" height="57.8438285" rx="2"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+                <g id="Path-120-Clipped">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M40.2032035,57.9738073 C42.6212854,63.8044088 46.8201096,56.5883315 45.8993096,53.6568777 C45.0459865,50.940245 40.9205908,59.2730081 42.6936558,59.9748885 C49.6764315,62.7390696 48.4601704,55.6904385 49.4522096,57.7041627 C49.7437931,58.2960435 48.2952696,59.7057031 49.0182058,59.9748885 C51.6486512,60.9543335 51.1505854,58.9149112 53.9474488,59.1517858" id="Path-120" stroke="#0D54A6" mask="url(#mask-6)"></path>
+                </g>
+                <g id="Star-1-Copy-Clipped">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polygon id="Star-1-Copy" fill="#F5A623" fill-rule="nonzero" mask="url(#mask-8)" points="26.7857143 66.6673754 23.6127719 68.6938838 22.2369595 65.1893954 18.4788433 64.9638665 19.4256744 61.3199935 16.5178572 58.9285715 19.4256744 56.5371496 18.4788433 52.8932765 22.2369595 52.6677477 23.6127719 49.1632588 26.7857143 51.1897673 29.9586567 49.1632588 31.3344691 52.6677477 35.0925852 52.8932765 34.1457542 56.5371496 37.0535714 58.9285715 34.1457542 61.3199935 35.0925852 64.9638665 31.3344691 65.1893954 29.9586567 68.6938838"></polygon>
+                </g>
+                <g id="Oval-15-Clipped">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <circle id="Oval-15" fill="#F4B346" fill-rule="nonzero" mask="url(#mask-10)" cx="26.7857143" cy="58.9285715" r="6.25"></circle>
+                </g>
+                <g id="Rectangle-114-Clipped">
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <rect id="Rectangle-114" fill="#E9E9E9" fill-rule="nonzero" mask="url(#mask-12)" x="23.6607143" y="25.8928572" width="27.6785714" height="3.125"></rect>
+                </g>
+                <g id="Rectangle-114-Copy-Clipped">
+                    <mask id="mask-14" fill="white">
+                        <use xlink:href="#path-13"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <rect id="Rectangle-114-Copy" fill="#E9E9E9" fill-rule="nonzero" mask="url(#mask-14)" x="17.8571428" y="33.9285714" width="38.8392858" height="1.33928572"></rect>
+                </g>
+                <g id="Rectangle-114-Copy-2-Clipped">
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <rect id="Rectangle-114-Copy-2" fill="#E9E9E9" fill-rule="nonzero" mask="url(#mask-16)" x="17.8571428" y="38.8392858" width="38.8392858" height="1.33928572"></rect>
+                </g>
+                <g id="Rectangle-114-Copy-3-Clipped">
+                    <mask id="mask-18" fill="white">
+                        <use xlink:href="#path-17"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <rect id="Rectangle-114-Copy-3" fill="#E9E9E9" fill-rule="nonzero" mask="url(#mask-18)" x="17.8571428" y="43.75" width="38.8392858" height="1.33928572"></rect>
+                </g>
+                <g id="Rectangle-113-Clipped">
+                    <mask id="mask-20" fill="white">
+                        <use xlink:href="#path-19"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <rect id="Rectangle-113" fill="#DD941A" fill-rule="nonzero" mask="url(#mask-20)" x="22.7678572" y="58.0357142" width="8.03571427" height="2.23214286"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

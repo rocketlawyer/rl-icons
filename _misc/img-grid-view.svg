@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Miscellaneous / img-grid-view</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Miscellaneous-/-img-grid-view" fill="#999999">
+            <g id="Rectangle-path">
+                <rect fill-rule="nonzero" x="0" y="0" width="33.33375" height="33.33375"></rect>
+                <rect fill-rule="nonzero" x="41.66625" y="0" width="33.33375" height="33.33375"></rect>
+                <rect fill-rule="nonzero" x="0" y="41.66625" width="33.33375" height="33.33375"></rect>
+                <rect fill-rule="nonzero" x="41.66625" y="41.66625" width="33.33375" height="33.33375"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

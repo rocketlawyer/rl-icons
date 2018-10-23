@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Miscellaneous / img-successcheck</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Miscellaneous-/-img-successcheck" fill="#999999">
+            <g id="Shape">
+                <path d="M37.5,0 C16.7925,0 0,16.7895 0,37.5 C0,58.20675 16.7925,75 37.5,75 C58.20675,75 75,58.20675 75,37.5 C75,16.7895 58.20675,0 37.5,0 Z M31.6605,58.821 L11.52825,38.337 L21.00075,28.6305 L31.32825,38.9745 L53.67975,16.179 L63.4725,26.208 L31.6605,58.821 Z" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

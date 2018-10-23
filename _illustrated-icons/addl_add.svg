@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="75px" viewBox="0 0 73 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Illustrated Icons / addl_add</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <ellipse id="path-1" cx="36" cy="37.5" rx="36" ry="37.5"></ellipse>
+        <ellipse id="path-3" cx="36" cy="37.5" rx="36" ry="37.5"></ellipse>
+        <ellipse id="path-5" cx="36" cy="37.5" rx="36" ry="37.5"></ellipse>
+        <ellipse id="path-7" cx="36" cy="37.5" rx="36" ry="37.5"></ellipse>
+        <ellipse id="path-9" cx="36" cy="37.5" rx="36" ry="37.5"></ellipse>
+    </defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Illustrated-Icons-/-addl_add" transform="translate(0.176030, 0.000000)">
+            <g>
+                <g id="Mask" fill="#70DEC0" fill-rule="nonzero">
+                    <ellipse id="path-1" cx="36" cy="37.5" rx="36" ry="37.5"></ellipse>
+                </g>
+                <g id="Rectangle-332-Copy-2-Clipped">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polygon id="Rectangle-332-Copy-2" fill="#CFEEE5" fill-rule="nonzero" mask="url(#mask-2)" points="18.4539299 37.0786517 10.0465116 45.2995242 10.0465116 92.6966292 66.9767442 92.6966292 66.9767442 37.0786517"></polygon>
+                </g>
+                <g id="Clipped">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polygon id="Shape" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-4)" points="7.53488372 26.1235955 56.057698 26.1235955 64.4651163 34.344468 64.4651163 81.741573 7.53488372 81.741573"></polygon>
+                </g>
+                <g id="Rectangle-1883-Copy-Clipped">
+                    <mask id="mask-6" fill="white">
+                        <use xlink:href="#path-5"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <polygon id="Rectangle-1883-Copy" fill="#CFEEE5" fill-rule="nonzero" mask="url(#mask-6)" points="56.0930233 26.1235955 64.4651163 34.5505618 56.0930233 34.5505618"></polygon>
+                </g>
+                <g id="Rectangle-335-Copy-Clipped">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M17.5813953,60.6741573 L54.4186047,60.6741573 L54.4186047,62.3595506 L17.5813953,62.3595506 L17.5813953,60.6741573 Z M17.5813953,70.7865169 L54.4186047,70.7865169 L54.4186047,72.4719101 L17.5813953,72.4719101 L17.5813953,70.7865169 Z M17.5813953,55.6179775 L54.4186047,55.6179775 L54.4186047,57.3033708 L17.5813953,57.3033708 L17.5813953,55.6179775 Z M17.5813953,50.5617978 L54.4186047,50.5617978 L54.4186047,52.247191 L17.5813953,52.247191 L17.5813953,50.5617978 Z M17.5813953,45.505618 L54.4186047,45.505618 L54.4186047,47.1910112 L17.5813953,47.1910112 L17.5813953,45.505618 Z M17.5813953,65.7303371 L54.4186047,65.7303371 L54.4186047,67.4157303 L17.5813953,67.4157303 L17.5813953,65.7303371 Z M21.7674419,37.0786517 L49.3953488,37.0786517 L49.3953488,40.4494382 L21.7674419,40.4494382 L21.7674419,37.0786517 Z" id="Rectangle-335-Copy" fill="#E9E9E9" fill-rule="nonzero" mask="url(#mask-8)"></path>
+                </g>
+                <g id="+1-Clipped">
+                    <mask id="mask-10" fill="white">
+                        <use xlink:href="#path-9"></use>
+                    </mask>
+                    <g id="path-1"></g>
+                    <path d="M30.0874676,15.5585826 L27.627907,15.5585826 L27.627907,13.9713348 L30.0874676,13.9713348 L30.0874676,11.7977528 L31.8660208,11.7977528 L31.8660208,13.9713348 L34.3255814,13.9713348 L34.3255814,15.5585826 L31.8660208,15.5585826 L31.8660208,17.6966292 L30.0874676,17.6966292 L30.0874676,15.5585826 Z M40.1860465,19.3820225 L37.8383477,19.3820225 L37.8383477,14.4745539 C37.8383477,13.8785534 37.8500568,13.3332846 37.8734753,12.838731 C37.7290609,13.0289439 37.5495213,13.2276078 37.3348512,13.4347285 L36.3629858,14.3033631 L35.1627907,12.7055826 L38.1018052,10.1123596 L40.1860465,10.1123596 L40.1860465,19.3820225 Z" id="+1" fill="#519B87" fill-rule="nonzero" mask="url(#mask-10)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

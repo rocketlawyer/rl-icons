@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="64px" viewBox="0 0 75 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Miscellaneous / img-list-view</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Miscellaneous-/-img-list-view" fill="#999999">
+            <g id="Group">
+                <g fill-rule="nonzero">
+                    <rect id="Rectangle-path" x="18.103125" y="0.843294118" width="56.896875" height="10.3849412"></rect>
+                    <rect id="Rectangle-path" x="0" y="0.843294118" width="12.9309375" height="10.3849412"></rect>
+                </g>
+                <g transform="translate(0.000000, 26.352941)" fill-rule="nonzero">
+                    <rect id="Rectangle-path" x="18.103125" y="0.454588235" width="56.896875" height="10.3858824"></rect>
+                    <rect id="Rectangle-path" x="0" y="0.454588235" width="12.9309375" height="10.3858824"></rect>
+                </g>
+                <g transform="translate(0.000000, 52.705882)" fill-rule="nonzero">
+                    <rect id="Rectangle-path" x="18.103125" y="0.064" width="56.896875" height="10.3858824"></rect>
+                    <rect id="Rectangle-path" x="0" y="0.064" width="12.9309375" height="10.3858824"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

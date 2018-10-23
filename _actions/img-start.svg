@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="75px" height="75px" viewBox="0 0 75 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Actions / img-start</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="img-start" fill="#999999">
+            <g id="Shape">
+                <path d="M37.4985,0.003 C16.7895,0.003 0,16.7925 0,37.5 C0,58.2075 16.7895,74.997 37.4985,74.997 C58.206,74.997 75,58.2075 75,37.5 C75,16.7925 58.206,0.003 37.4985,0.003 Z M60.00375,42.5025 L42.5025,42.5025 L42.5025,60.00375 L32.496,60.00375 L32.496,42.5025 L15.00525,42.5025 L15.00525,32.49675 L32.496,32.49675 L32.496,15.00525 L42.5025,15.00525 L42.5025,32.49675 L60.00375,32.49675 L60.00375,42.5025 Z" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>
