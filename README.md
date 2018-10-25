@@ -1,6 +1,6 @@
 # rl-icons
 
-see https://rocket-lawyer.atlassian.net/browse/DPAY-31
+icon library that can be used by multiple front-end components
 
 
 
