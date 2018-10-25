@@ -5,6 +5,36 @@ icon library that can be used by multiple front-end components
 
 
 
+![Icon](./_logos/rl-doc-white.svg)
+
+ `_logos/rl-doc-white.svg` 
+
+
+![Icon](./_logos/rl-logo-white.svg)
+
+ `_logos/rl-logo-white.svg` 
+
+
+![Icon](./_logos/rl-text-white.svg)
+
+ `_logos/rl-text-white.svg` 
+
+
+![Icon](./_logos/rl-doc-dark.svg)
+
+ `_logos/rl-doc-dark.svg` 
+
+
+![Icon](./_logos/rl-logo-red.svg)
+
+ `_logos/rl-logo-red.svg` 
+
+
+![Icon](./_logos/rl-text-red.svg)
+
+ `_logos/rl-text-red.svg` 
+
+
 ![Icon](./_misc/pen.svg)
 
  `_misc/pen.svg` 
@@ -283,6 +313,11 @@ icon library that can be used by multiple front-end components
 ![Icon](./_account-settings/icon-cc-discover.svg)
 
  `_account-settings/icon-cc-discover.svg` 
+
+
+![Icon](./_account-settings/icon-security-lock-green.svg)
+
+ `_account-settings/icon-security-lock-green.svg` 
 
 
 ![Icon](./_account-settings/icon-account-user.svg)
