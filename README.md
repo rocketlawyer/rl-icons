@@ -1,4 +1,4 @@
-Last updated **07/11/2018**
+Last updated **15/11/2018**
 # rl-icons
 
 Icon Library that can be used by multiple front-end components
@@ -12,7 +12,9 @@ Icon | Path
 <img src="./_logos/rl-logo-red.svg" width="200"  /> |  `_logos/rl-logo-red.svg`  
 <img src="./_logos/rl-text-red.svg" width="200"  /> |  `_logos/rl-text-red.svg`  
 <img src="./_misc/pen.svg" width="200"  /> |  `_misc/pen.svg`  
+<img src="./_misc/img-alert-message-orange.svg" width="200"  /> |  `_misc/img-alert-message-orange.svg`  
 <img src="./_misc/img-nav-activities.svg" width="200"  /> |  `_misc/img-nav-activities.svg`  
+<img src="./_misc/img-successcheck-green.svg" width="200"  /> |  `_misc/img-successcheck-green.svg`  
 <img src="./_misc/img-list-view.svg" width="200"  /> |  `_misc/img-list-view.svg`  
 <img src="./_misc/img-help-us.svg" width="200"  /> |  `_misc/img-help-us.svg`  
 <img src="./_misc/lightbulb.svg" width="200"  /> |  `_misc/lightbulb.svg`  
@@ -26,6 +28,7 @@ Icon | Path
 <img src="./_misc/tritri.svg" width="200"  /> |  `_misc/tritri.svg`  
 <img src="./_misc/skinnycheck.svg" width="200"  /> |  `_misc/skinnycheck.svg`  
 <img src="./_misc/img-legalchecklist.svg" width="200"  /> |  `_misc/img-legalchecklist.svg`  
+<img src="./_misc/img-error-message-red.svg" width="200"  /> |  `_misc/img-error-message-red.svg`  
 <img src="./_misc/timer.svg" width="200"  /> |  `_misc/timer.svg`  
 <img src="./_misc/img-grid-view.svg" width="200"  /> |  `_misc/img-grid-view.svg`  
 <img src="./_misc/stamp.svg" width="200"  /> |  `_misc/stamp.svg`  
