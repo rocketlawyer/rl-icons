@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>EU</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="16" rx="0.8"></rect>
+    </defs>
+    <g id="EU" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="GBP">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#D8D8D8" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Flag_of_Europe" mask="url(#mask-2)">
+                <g transform="translate(0.000000, -1.000000)">
+                    <rect id="Rectangle" fill="#003399" x="0" y="1" width="25" height="16"></rect>
+                    <g id="Group" stroke-width="1" fill="none" transform="translate(2.000000, 0.000000)">
+                        <g id="s-link" transform="translate(6.300000, 0.789474)" fill="#FFCC00">
+                            <g id="s">
+                                <g id="c" transform="translate(1.800000, 1.000000)">
+                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                    </g>
+                                </g>
+                                <g id="a" transform="translate(1.900000, 0.000000)">
+                                    <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                        <g id="c" transform="translate(0.000000, 0.000000)">
+                                            <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                            <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                        <g id="c" transform="translate(0.000000, 0.000000)">
+                                            <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                            <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                    <g id="a">
+                                        <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                            <g id="c" transform="translate(0.000000, -0.000000)">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                            <g id="c">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="s-link" transform="translate(6.300000, 11.526316)" fill="#FFCC00">
+                            <g id="s">
+                                <g id="c" transform="translate(1.800000, 1.000000)">
+                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                    </g>
+                                </g>
+                                <g id="a" transform="translate(1.900000, 0.000000)">
+                                    <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                        <g id="c" transform="translate(0.000000, 0.000000)">
+                                            <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                            <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                        <g id="c">
+                                            <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                            <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                    <g id="a">
+                                        <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                            <g id="c" transform="translate(0.000000, -0.000000)">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                            <g id="c">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="l" fill="#FFCC00">
+                            <g id="s-link" transform="translate(0.900000, 6.157895)">
+                                <g id="s">
+                                    <g id="c" transform="translate(1.800000, 1.000000)">
+                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="a" transform="translate(1.900000, 0.000000)">
+                                        <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                            <g id="c" transform="translate(0.000000, 0.000000)">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                            <g id="c" transform="translate(0.000000, 0.000000)">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                        <g id="a">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c" transform="translate(-0.000000, 0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="s-link" transform="translate(7.293202, 4.649926) rotate(-144.000000) translate(-7.293202, -4.649926) translate(3.793202, 2.149926)">
+                                <g id="s" transform="translate(0.000000, -0.000000)">
+                                    <g id="c" transform="translate(1.800000, 1.000000)">
+                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="a" transform="translate(1.900000, -0.000000)">
+                                        <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                            <g id="c">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                            <g id="c">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                        <g id="a" transform="translate(0.000000, 0.000000)">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c" transform="translate(0.000000, 0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c" transform="translate(0.000000, 0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="s-link" transform="translate(5.653868, 6.379790) rotate(144.000000) translate(-5.653868, -6.379790) translate(2.153868, 3.879790)">
+                                <g id="s" transform="translate(0.000000, 0.000000)">
+                                    <g id="c" transform="translate(1.800000, 1.000000)">
+                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="a" transform="translate(1.900000, -0.000000)">
+                                        <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                            <g id="c">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                            <g id="c">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                        <g id="a" transform="translate(0.000000, 0.000000)">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c" transform="translate(0.000000, 0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="s-link" transform="translate(5.534462, 11.351915) rotate(72.000000) translate(-5.534462, -11.351915) translate(2.034462, 8.851915)">
+                                <g id="s" transform="translate(0.000000, 0.000000)">
+                                    <g id="c" transform="translate(1.800000, 1.000000)">
+                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="a" transform="translate(1.900000, 0.000000)">
+                                        <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                            <g id="c" transform="translate(0.000000, 0.000000)">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                            <g id="c" transform="translate(0.000000, -0.000000)">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                        <g id="a" transform="translate(-0.000000, 0.000000)">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                            <g id="s-link" transform="translate(7.511000, 13.316894) rotate(72.000000) translate(-7.511000, -13.316894) translate(4.011000, 10.816894)">
+                                <g id="s" transform="translate(0.000000, 0.000000)">
+                                    <g id="c" transform="translate(1.800000, 1.000000)">
+                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                        </g>
+                                    </g>
+                                    <g id="a" transform="translate(1.900000, 0.000000)">
+                                        <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                            <g id="c" transform="translate(0.000000, 0.000000)">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                            <g id="c" transform="translate(0.000000, -0.000000)">
+                                                <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                    <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                    <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                        <g id="a" transform="translate(-0.000000, 0.000000)">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c" transform="translate(0.000000, -0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                        <g id="l-link" transform="translate(14.000000, 9.000000) scale(-1, 1) translate(-14.000000, -9.000000) translate(8.000000, 0.000000)" fill="#FFCC00">
+                            <g id="l">
+                                <g id="s-link" transform="translate(0.900000, 6.157895)">
+                                    <g id="s">
+                                        <g id="c" transform="translate(1.800000, 1.000000)">
+                                            <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                            <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                            </g>
+                                        </g>
+                                        <g id="a" transform="translate(1.900000, 0.000000)">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c" transform="translate(-0.000000, 0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c" transform="translate(0.000000, 0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                            <g id="a">
+                                                <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                    <g id="c">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                    <g id="c" transform="translate(0.000000, 0.000000)">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="s-link" transform="translate(7.293202, 4.649926) rotate(-144.000000) translate(-7.293202, -4.649926) translate(3.793202, 2.149926)">
+                                    <g id="s" transform="translate(-0.000000, 0.000000)">
+                                        <g id="c" transform="translate(1.800000, 1.000000)">
+                                            <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                            <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                            </g>
+                                        </g>
+                                        <g id="a" transform="translate(1.900000, -0.000000)">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c" transform="translate(0.000000, 0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, -0.000000)">
+                                            <g id="a" transform="translate(0.000000, 0.000000)">
+                                                <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                    <g id="c" transform="translate(0.000000, -0.000000)">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                    <g id="c" transform="translate(0.000000, 0.000000)">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="s-link" transform="translate(5.653868, 6.379790) rotate(144.000000) translate(-5.653868, -6.379790) translate(2.153868, 3.879790)">
+                                    <g id="s" transform="translate(0.000000, 0.000000)">
+                                        <g id="c" transform="translate(1.800000, 1.000000)">
+                                            <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                            <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                            </g>
+                                        </g>
+                                        <g id="a" transform="translate(1.900000, 0.000000)">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c" transform="translate(0.000000, -0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                            <g id="a">
+                                                <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                    <g id="c" transform="translate(0.000000, 0.000000)">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                    <g id="c" transform="translate(0.000000, 0.000000)">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="s-link" transform="translate(5.534462, 11.351915) rotate(72.000000) translate(-5.534462, -11.351915) translate(2.034462, 8.851915)">
+                                    <g id="s" transform="translate(0.000000, -0.000000)">
+                                        <g id="c" transform="translate(1.800000, 1.000000)">
+                                            <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                            <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                            </g>
+                                        </g>
+                                        <g id="a" transform="translate(1.900000, 0.000000)">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c" transform="translate(0.000000, 0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c" transform="translate(0.000000, -0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, 0.000000)">
+                                            <g id="a" transform="translate(-0.000000, 0.000000)">
+                                                <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                    <g id="c" transform="translate(0.000000, -0.000000)">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                    <g id="c" transform="translate(0.000000, 0.000000)">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                                <g id="s-link" transform="translate(7.511000, 13.316894) rotate(72.000000) translate(-7.511000, -13.316894) translate(4.011000, 10.816894)">
+                                    <g id="s" transform="translate(-0.000000, -0.000000)">
+                                        <g id="c" transform="translate(1.800000, 1.000000)">
+                                            <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                            <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                            </g>
+                                        </g>
+                                        <g id="a" transform="translate(1.900000, 0.000000)">
+                                            <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                <g id="c" transform="translate(0.000000, 0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                            <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                <g id="c" transform="translate(0.000000, -0.000000)">
+                                                    <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                    <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                        <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                        <g id="a-link" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) translate(0.500000, -0.000000)">
+                                            <g id="a" transform="translate(0.000000, -0.000000)">
+                                                <g id="c-link" transform="translate(1.954202, 2.319599) rotate(72.000000) translate(-1.954202, -2.319599) translate(0.454202, 0.819599)">
+                                                    <g id="c" transform="translate(0.000000, -0.000000)">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, -0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                                <g id="c-link" transform="translate(2.295302, 2.788549) rotate(144.000000) translate(-2.295302, -2.788549) translate(0.795302, 1.288549)">
+                                                    <g id="c" transform="translate(0.000000, 0.000000)">
+                                                        <polygon id="t" transform="translate(1.974075, 1.389460) rotate(18.000000) translate(-1.974075, -1.389460) " points="1.75074747 0.941840782 1.74920067 1.83708021 2.19894938 1.83630681"></polygon>
+                                                        <g id="t-link" transform="translate(1.800000, 1.500000) scale(-1, 1) translate(-1.800000, -1.500000) translate(0.800000, 0.000000)">
+                                                            <polygon id="t" transform="translate(0.974075, 1.389460) rotate(18.000000) translate(-0.974075, -1.389460) " points="0.750747473 0.941840782 0.74920067 1.83708021 1.19894938 1.83630681"></polygon>
+                                                        </g>
+                                                    </g>
+                                                </g>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

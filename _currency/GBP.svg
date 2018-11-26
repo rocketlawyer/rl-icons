@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="16px" viewBox="0 0 24 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>GBP</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="24" height="16" rx="0.8"></rect>
+        <path d="M15.0588235,8 L30.1176471,8 L30.1176471,16 L15.0588235,8 Z M15.0588235,8 L15.0588235,16 L0,16 L15.0588235,8 Z M15.0588235,8 L0,8 L0,0 L15.0588235,8 Z M15.0588235,8 L15.0588235,0 L30.1176471,0 L15.0588235,8 Z" id="path-3"></path>
+    </defs>
+    <g id="GBP" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g>
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Mask" fill="#D8D8D8" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g mask="url(#mask-2)">
+                <g transform="translate(-3.000000, 0.000000)">
+                    <polygon id="Path" stroke="none" fill="#00247D" fill-rule="evenodd" points="0 0 0 16 30.1176471 16 30.1176471 0"></polygon>
+                    <path d="M0,0 L30.1176471,16 M30.1176471,0 L0,16" id="Shape" stroke="#FFFFFF" stroke-width="3.24" fill="#000000" fill-rule="nonzero"></path>
+                    <g id="Clipped" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <g id="Shape"></g>
+                        <path d="M0,0 L30.1176471,16 M30.1176471,0 L0,16" id="Shape" stroke="#CF142B" stroke-width="2.16" fill="#000000" fill-rule="nonzero" mask="url(#mask-4)"></path>
+                    </g>
+                    <path d="M15.0588235,0 L15.0588235,16 M0,8 L30.1176471,8" id="Shape" stroke="#FFFFFF" stroke-width="5.4" fill="#000000" fill-rule="nonzero"></path>
+                    <path d="M15.0588235,0 L15.0588235,16 M0,8 L30.1176471,8" id="Shape" stroke="#CF142B" stroke-width="3.24" fill="#000000" fill-rule="nonzero"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
