@@ -1,4 +1,4 @@
-Last updated **15/11/2018**
+Last updated **28/11/2018**
 # rl-icons
 
 Icon Library that can be used by multiple front-end components
@@ -35,7 +35,9 @@ Icon | Path
 <img src="./_documents/img-doc-qa-answered.svg" width="200"  /> |  `_documents/img-doc-qa-answered.svg`  
 <img src="./_documents/img-doc-interviewcomplete-mediumgray.svg" width="200"  /> |  `_documents/img-doc-interviewcomplete-mediumgray.svg`  
 <img src="./_documents/img-doc-sign-ready.svg" width="200"  /> |  `_documents/img-doc-sign-ready.svg`  
+<img src="./_documents/identification-error.svg" width="200"  /> |  `_documents/identification-error.svg`  
 <img src="./_documents/img-document.svg" width="200"  /> |  `_documents/img-document.svg`  
+<img src="./_documents/identification-success.svg" width="200"  /> |  `_documents/identification-success.svg`  
 <img src="./_documents/doc_stack.svg" width="200"  /> |  `_documents/doc_stack.svg`  
 <img src="./_documents/img-doc-sign-waiting.svg" width="200"  /> |  `_documents/img-doc-sign-waiting.svg`  
 <img src="./_documents/img-doc-signed.svg" width="200"  /> |  `_documents/img-doc-signed.svg`  
@@ -67,6 +69,10 @@ Icon | Path
 <img src="./_actions/print.svg" width="200"  /> |  `_actions/print.svg`  
 <img src="./_actions/img-save-later.svg" width="200"  /> |  `_actions/img-save-later.svg`  
 <img src="./_actions/addtenant.svg" width="200"  /> |  `_actions/addtenant.svg`  
+<img src="./node_modules/stream-http/test/server/static/browserify.png" width="200"  /> |  `node_modules/stream-http/test/server/static/browserify.png`  
+<img src="./_currency/USD.svg" width="200"  /> |  `_currency/USD.svg`  
+<img src="./_currency/GBP.svg" width="200"  /> |  `_currency/GBP.svg`  
+<img src="./_currency/EUR.svg" width="200"  /> |  `_currency/EUR.svg`  
 <img src="./_spinners/big-spinner.svg" width="200"  /> |  `_spinners/big-spinner.svg`  
 <img src="./_spinners/button-spinner.svg" width="200"  /> |  `_spinners/button-spinner.svg`  
 <img src="./_account-settings/icon-cc-discover.svg" width="200"  /> |  `_account-settings/icon-cc-discover.svg`  

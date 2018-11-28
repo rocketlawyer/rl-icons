@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="47px" viewBox="0 0 43 47" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.3 (67297) - http://www.bohemiancoding.com/sketch -->
+    <title>Success Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="KYC" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ID-Verification-Success" transform="translate(-700.000000, -233.000000)">
+            <g id="Success-Icon" transform="translate(700.000000, 233.000000)">
+                <path d="M4,40 C1.791,40 0,38.209 0,36 L0,4 C0,1.791 1.791,0 4,0 L32,0 C34.209,0 36,1.791 36,4 L36,36 C36,38.209 34.209,40 32,40 L4,40 Z" id="Path" fill="#333333"></path>
+                <polygon id="Path" fill="#FFFFFF" points="4 4 4 36 32 36 32 4"></polygon>
+                <polygon id="Path" fill="#333333" points="28 10 8 10 8 8 28 8"></polygon>
+                <polygon id="Path" fill="#333333" points="28 14 8 14 8 12 28 12"></polygon>
+                <polygon id="Path" fill="#333333" points="18 18 8 18 8 16 18 16"></polygon>
+                <g id="Click" transform="translate(22.000000, 26.000000)">
+                    <path d="M14.9989553,18.6590342 C10.2167762,21.419591 4.10232593,19.781354 1.34129992,14.9991219 C-1.41972609,10.2168897 0.218492672,4.10187158 5.00067171,1.34131482 C9.78285074,-1.41974186 15.897801,0.218495099 18.658827,5.00072725 C21.419853,9.78295941 19.7811343,15.8979776 14.9989553,18.6590342 L14.9989553,18.6590342 Z" id="Path" stroke="#FFFFFF" stroke-width="1.5" fill="#C1DFA0"></path>
+                    <path d="M13.5352066,8.79311834 L9.29343476,13.0349373 C8.90300179,13.4253746 8.27011044,13.4253746 7.87917755,13.0349373 L6.46542025,11.6211643 C6.07498728,11.230727 6.07498728,10.5978286 6.46542025,10.2073913 L6.46542025,10.2073913 C6.85585322,9.81695395 7.48874457,9.81695395 7.87917755,10.2073913 L8.58655611,10.9142778 L12.1214493,7.37934534 C12.5118822,6.98890803 13.1447736,6.98890803 13.5357065,7.37934534 L13.5357065,7.37934534 C13.9251396,7.76978265 13.9251396,8.40268103 13.5352066,8.79311834 L13.5352066,8.79311834 Z" id="Path" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
