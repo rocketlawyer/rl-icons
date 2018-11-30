@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="83px" height="75px" viewBox="0 0 83 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.3 (57544) - http://www.bohemiancoding.com/sketch -->
+    <title>Account Settings / icon-account-user</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Account-Settings-/-icon-account-user" fill="#333">
+            <g id="Shape">
+                <path d="M83,75 L75.133675,75 C70.62055,62.8 57.272075,50 41.5,50 C25.72585,50 12.37945,62.8 7.86425,75 L0,75 C0,61.19375 18.57955,41.6666667 41.5,41.6666667 C64.42045,41.6666667 83,61.19375 83,75 Z M20.75,20.8333333 C20.75,9.32708333 30.039775,0 41.5,0 C52.960225,0 62.25,9.32708333 62.25,20.8333333 C62.25,32.3395833 52.960225,41.6666667 41.5,41.6666667 C30.039775,41.6666667 20.75,32.3395833 20.75,20.8333333 Z M41.5,33.3333333 C48.374475,33.3333333 53.95,27.7354167 53.95,20.8333333 C53.95,13.9291667 48.374475,8.33333333 41.5,8.33333333 C34.62345,8.33333333 29.05,13.9291667 29.05,20.8333333 C29.05,27.7354167 34.62345,33.3333333 41.5,33.3333333 Z" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

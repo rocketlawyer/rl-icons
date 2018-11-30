@@ -1,4 +1,4 @@
-Last updated **28/11/2018**
+Last updated **30/11/2018**
 # rl-icons
 
 Icon Library that can be used by multiple front-end components
@@ -11,9 +11,14 @@ Icon | Path
 <img src="./_logos/rl-doc-dark.svg" width="200"  /> |  `_logos/rl-doc-dark.svg`  
 <img src="./_logos/rl-logo-red.svg" width="200"  /> |  `_logos/rl-logo-red.svg`  
 <img src="./_logos/rl-text-red.svg" width="200"  /> |  `_logos/rl-text-red.svg`  
+<img src="./_misc/add_card.svg" width="200"  /> |  `_misc/add_card.svg`  
+<img src="./_misc/add_card_large.svg" width="200"  /> |  `_misc/add_card_large.svg`  
+<img src="./_misc/apartment.svg" width="200"  /> |  `_misc/apartment.svg`  
 <img src="./_misc/pen.svg" width="200"  /> |  `_misc/pen.svg`  
 <img src="./_misc/img-alert-message-orange.svg" width="200"  /> |  `_misc/img-alert-message-orange.svg`  
+<img src="./_misc/individual.svg" width="200"  /> |  `_misc/individual.svg`  
 <img src="./_misc/img-nav-activities.svg" width="200"  /> |  `_misc/img-nav-activities.svg`  
+<img src="./_misc/instant.svg" width="200"  /> |  `_misc/instant.svg`  
 <img src="./_misc/img-successcheck-green.svg" width="200"  /> |  `_misc/img-successcheck-green.svg`  
 <img src="./_misc/img-list-view.svg" width="200"  /> |  `_misc/img-list-view.svg`  
 <img src="./_misc/img-help-us.svg" width="200"  /> |  `_misc/img-help-us.svg`  
@@ -28,6 +33,7 @@ Icon | Path
 <img src="./_misc/tritri.svg" width="200"  /> |  `_misc/tritri.svg`  
 <img src="./_misc/skinnycheck.svg" width="200"  /> |  `_misc/skinnycheck.svg`  
 <img src="./_misc/img-legalchecklist.svg" width="200"  /> |  `_misc/img-legalchecklist.svg`  
+<img src="./_misc/rocket.svg" width="200"  /> |  `_misc/rocket.svg`  
 <img src="./_misc/img-error-message-red.svg" width="200"  /> |  `_misc/img-error-message-red.svg`  
 <img src="./_misc/timer.svg" width="200"  /> |  `_misc/timer.svg`  
 <img src="./_misc/img-grid-view.svg" width="200"  /> |  `_misc/img-grid-view.svg`  
@@ -69,7 +75,6 @@ Icon | Path
 <img src="./_actions/print.svg" width="200"  /> |  `_actions/print.svg`  
 <img src="./_actions/img-save-later.svg" width="200"  /> |  `_actions/img-save-later.svg`  
 <img src="./_actions/addtenant.svg" width="200"  /> |  `_actions/addtenant.svg`  
-<img src="./node_modules/stream-http/test/server/static/browserify.png" width="200"  /> |  `node_modules/stream-http/test/server/static/browserify.png`  
 <img src="./_currency/USD.svg" width="200"  /> |  `_currency/USD.svg`  
 <img src="./_currency/GBP.svg" width="200"  /> |  `_currency/GBP.svg`  
 <img src="./_currency/EUR.svg" width="200"  /> |  `_currency/EUR.svg`  
