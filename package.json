@@ -14,7 +14,7 @@
   "dependencies": {
     "husky": "^1.2.0",
     "react": "^15.5.4",
-    "webpack": "^2.6.1"
+    "webpack": "^5.81.0"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
